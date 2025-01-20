@@ -1,4 +1,4 @@
-# Qr Go
+# QrGo
 
 This library generates QR codes from URLs.
 
