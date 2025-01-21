@@ -6,7 +6,9 @@
 
 ## Usage
 ```Go
-package main(
+package main
+
+import (
     "log"
     "github.com/KaedeProject/QrGo"
 )
