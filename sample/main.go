@@ -1,17 +1,3 @@
-# QrGo
-
-This library generates QR codes from URLs.
-
-
-## Installation
-
-```
-go get github.com/kaedeek/QrGo
-```
-
-## Usage
-
-```Go
 package main
 
 import (
@@ -32,5 +18,3 @@ func main() {
 
 	logger.Info("QR code generated successfully.")
 }
-
-```
